@@ -1,10 +1,12 @@
 <script setup>
+  import ComponentXat from './components/ComponentXat.vue';
 
 </script>
 
 <template>
     <div>
-      yeyeyeyeyeye
+      <ComponentXat></ComponentXat>
+      
     </div>
 </template>
 
